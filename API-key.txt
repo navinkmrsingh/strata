@@ -1,0 +1,7 @@
+API Key:
+e8417d48420949a8af0bbe128f55907e2845d6d83a25406087e30effb952a9c1
+
+
+
+Command to Run over LAN:
+.\START-HERE.bat --host 0.0.0.0 --api-key "e8417d48420949a8af0bbe128f55907e2845d6d83a25406087e30effb952a9c1"
